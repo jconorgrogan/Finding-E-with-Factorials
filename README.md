@@ -12,4 +12,4 @@
 
 3. **Add Them Up**: Add up the lengths of these segments. 
 
-4. **Calculate \( e \)**: Divide the total length of all segments by \( L \) and add 2. The result should approximate \( e \)!
+4. **Calculate \( e \)**: Divide the total length of all segments by \( L \). You get approx. e-2. Add 2 and the result should approximate \( e \)!
