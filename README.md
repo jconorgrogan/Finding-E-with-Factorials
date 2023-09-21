@@ -1,8 +1,5 @@
 ## Approximating \( e \) Using a Geometric Representation of the Maclaurin Series
 
-### Overview
-This method uses a line segment to physically represent the Maclaurin series for \( e^{-1} \). By dividing the line segment according to the factorials, the series is made tangible. The result is an approximation of \( e \).
-
 ### Steps
 
 1. **Draw a Line Segment**: Use a ruler to draw a line segment of a known length \( L \). For example, let \( L = 10 \) cm for ease of calculation.
